@@ -1,4 +1,4 @@
-The code included here is an opensource, anyone can modify and redistribute it.
+The code included here is an open source, anyone can modify and redistribute it.
 
 Jupyter Notebook "Channel_Capacity.ipynb" includes all necessary channel capacity calculation procedures including bootstrapping and linear regression.
 File "dectin-2 FFM.csv" include an example input and output data.
